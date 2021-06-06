@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test edit from local
-=======
-test edit
->>>>>>> 52771f8f3a09a2f7c6cf5be0c949afcbefa3c571
+test edit from local edit
